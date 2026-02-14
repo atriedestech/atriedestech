@@ -56,9 +56,9 @@ _A comprehensive E-commerce platform._
 ### 📊 GitHub Stats
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=atriedestech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rahul's GitHub stats" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atriedestech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=atriedestech&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" /></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atriedestech&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atriedestech&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atriedestech&theme=tokyonight" alt="Most Commits Language" />
 </div>
 
 ---
